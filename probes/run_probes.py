@@ -20,7 +20,7 @@ FAILED = 0
 PASSED = 0
 
 BAD = "Caf\u00c3\u00a9 na\u00c3\u00afve"      # 典型 mojibake
-GOOD = "café naïve"
+GOOD = "Café naïve"
 BAD_ENCODED = "CafÃ© naÃ¯ve"
 
 
